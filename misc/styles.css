@@ -1,0 +1,17 @@
+body {
+  background-color: #EAF6F6;
+}
+hr {
+  border: 3px;
+  height: 0px;
+  border-style: dashed none none;
+  border-color: green;
+  background-color: #EAF6F6;
+  width: 100%;
+}
+h1 {
+  color: green;
+}
+h2 {
+  color: green;
+}
