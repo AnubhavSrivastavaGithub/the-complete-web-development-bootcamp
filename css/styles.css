@@ -19,6 +19,27 @@ h2 {
   color: green;
 }
 
-br {
-  
+.top {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  border: solid;
+}
+
+.top h3 {
+  color: yellow;
+}
+
+.bottom {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  margin-left: 205px;
+  border: solid;
+  border-width: 10px;
+  border-color: black;
+}
+
+.bottom h3 {
+  color: yellow;
 }
