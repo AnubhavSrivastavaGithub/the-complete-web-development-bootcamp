@@ -19,11 +19,20 @@ h2 {
   color: green;
 }
 
+.container {
+  background-color: lime;
+  width: 1000px;
+  height: 200px;
+  position: absolute;
+}
+
 .top {
   background-color: blue;
-  width: 200px;
-  height: 200px;
-  border: solid;
+  width: 100px;
+  height: 100px;
+  margin: 0;
+  position: absolute;
+  top: 0;
 }
 
 .top h3 {
@@ -32,12 +41,12 @@ h2 {
 
 .bottom {
   background-color: red;
-  width: 200px;
-  height: 200px;
-  margin-left: 205px;
-  border: solid;
-  border-width: 10px;
-  border-color: black;
+  width: 100px;
+  height: 100px;
+  margin: 0;
+  position: absolute;
+  left: 100px;
+  top: 100px;
 }
 
 .bottom h3 {
